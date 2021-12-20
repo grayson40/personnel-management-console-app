@@ -12,4 +12,4 @@ A console personnel management program.
 
 ## ScreenShot
 
-![ScreenShot](screenshot.png)
+![alt text](https://github.com/grayson40/personnel-management-console-app/blob/master/screenshot.PNG?raw=true)
